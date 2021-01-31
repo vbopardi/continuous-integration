@@ -1,4 +1,4 @@
-# Continuous Integration ![https://github.com/vbopardi/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/vbopardi/continuous-integration/actions?query=workflow%3Atests](https://github.com/vbopardi/continuous-integration/workflows/tests/badge.svg)
 
 *This is the first homework assignment for [Claremont McKenna's CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course.*
 
