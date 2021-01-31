@@ -186,7 +186,7 @@ In particular,
 the first line of the file currently contains the text
 
 ```
-# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/vbopardi/continuous-integration/actions?query=workflow%3Atests](https://github.com/vbopardi/continuous-integration/workflows/tests/badge.svg)
 ```
 
 To fix this problem and get the correct badge,
